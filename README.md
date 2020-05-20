@@ -12,4 +12,4 @@ Sometimes we want to know more on a topic on the newspaper or watch a video rela
 We might require more knowledge on a topic in the book and need to search relevant information or video on the topic.
 The project tries to automate these tasks.
 
-  Technologies used: OpenCV, PyTesseract, Beautiful Soup 4, Webcam 
+  Technologies used: OpenCV, PyTesseract, Beautiful Soup 4, Webcam.
